@@ -29,13 +29,19 @@ h3  {
 p{
   font-size: 14px;
 }
+.footer{
+  text-align: left;
+}
 #Menu_footer{
   color: white;
-  text-align: left;
   font-size: 18px;
   background-color: dimgray;
+  
 }
 #copy{
   color: white;
   font-size: 11px
+}
+a {
+  color:white;
 }
