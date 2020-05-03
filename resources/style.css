@@ -9,6 +9,7 @@ body{
 }
 #Home{
   background-image: url("./images/the-flatiron-building.png");
+  background-position: center;
   font-size: 18px;
   color: white;
 }
@@ -36,7 +37,7 @@ p{
   color: white;
   font-size: 18px;
   background-color: dimgray;
-  
+
 }
 #copy{
   color: white;
