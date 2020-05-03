@@ -32,10 +32,9 @@ p{
 }
 .footer{
   text-align: left;
+  color: white
 }
 #Menu_footer{
-  color: white;
-  font-size: 18px;
   background-color: dimgray;
 
 }
@@ -45,4 +44,7 @@ p{
 }
 a {
   color:white;
+}
+.nav{
+  font-size: 18px;
 }
